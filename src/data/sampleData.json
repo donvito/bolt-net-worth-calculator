@@ -1,0 +1,29 @@
+{
+  "assets": {
+    "cashAndInvestments": [
+      { "id": 1, "name": "Checking Account", "value": 5000 },
+      { "id": 2, "name": "Savings Account", "value": 20000 },
+      { "id": 3, "name": "Investment Portfolio", "value": 100000 },
+      { "id": 4, "name": "Retirement Accounts", "value": 250000 }
+    ],
+    "property": [
+      { "id": 1, "name": "Primary Residence", "value": 450000 },
+      { "id": 2, "name": "Vehicles", "value": 35000 }
+    ],
+    "otherAssets": [
+      { "id": 1, "name": "Jewelry & Collectibles", "value": 15000 },
+      { "id": 2, "name": "Business Ownership", "value": 75000 }
+    ]
+  },
+  "liabilities": {
+    "shortTerm": [
+      { "id": 1, "name": "Credit Card Debt", "value": 5000 },
+      { "id": 2, "name": "Personal Loans", "value": 10000 }
+    ],
+    "longTerm": [
+      { "id": 1, "name": "Mortgage", "value": 350000 },
+      { "id": 2, "name": "Auto Loans", "value": 25000 },
+      { "id": 3, "name": "Student Loans", "value": 30000 }
+    ]
+  }
+}
